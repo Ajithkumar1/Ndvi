@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_111 (Oracle Corporation 25.111-b14)
+Built-By: Eclipse Plugin for ThingWorx Extension Development 7.2.0.201
+ 608021836
+Build-Date: Wed Nov 23 08:06:41 IST 2016
+
+Name: Ndvi
+Package-Title: Ndvi
+Package-Version: 1.0.0
+Package-Vendor: 
+
